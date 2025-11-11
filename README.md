@@ -5,3 +5,5 @@
 Versão v1.0 em preparação
 
 Correção urgente aplicada (Hotfix)
+
+Versão v1.1.0 em preparação
